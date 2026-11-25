@@ -10,6 +10,12 @@ EasyEffects presets for Linux audio processing.
 | DAC | Fosi Audio K5 Pro USB |
 | Microphone | Samson Q9U USB |
 
+## Preview
+
+![EasyEffects audio processing demo](assets/easyeffects-demo.gif)
+
+*ATH-M50x EQ and Samson Q9U mic chain in action.*
+
 ## EasyEffects Presets
 
 ### Output (Headphones)
