@@ -1,0 +1,7 @@
+[soe][Limiter#0]
+dithering=8
+gainBoost=false
+mode=1
+oversampling=16
+release=20
+threshold=-1
